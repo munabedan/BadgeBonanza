@@ -1,4 +1,4 @@
-# My Awesome Project
+# BadgeBonanza
 
 [![GitHub License](https://img.shields.io/github/license/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/blob/main/LICENSE) 
 [![GitHub Stars](https://img.shields.io/github/stars/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/stargazers)
@@ -26,9 +26,7 @@
 
 ## Description
 
-
-## Usage
-
+Having fun with badges
 
 ## Contributions
 
