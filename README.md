@@ -1,6 +1,6 @@
 # My Awesome Project
 
-[![GitHub License](https://img.shields.io/github/license/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/blob/main/LICENSE) 
 [![GitHub Stars](https://img.shields.io/github/stars/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/munabedan/BadgeBonanza)](https://github.com/munabedan/BadgeBonanza/issues)
